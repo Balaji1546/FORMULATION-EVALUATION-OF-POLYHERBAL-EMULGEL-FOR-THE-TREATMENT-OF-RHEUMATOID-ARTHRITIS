@@ -1,10 +1,10 @@
-# 🧪 Academic Project: Polyherbal Emulgel for Rheumatoid Arthritis
+## 🧪 Academic Project: Polyherbal Emulgel for Rheumatoid Arthritis
 
 This research project focuses on the formulation and evaluation of a topical polyherbal emulgel containing **ginger extract** and **eucalyptus oil**, aimed at treating rheumatoid arthritis naturally and effectively.
 
 ---
 
-## 🔍 Key Highlights
+### 🔍 Key Highlights
 
 - Researched anti-inflammatory properties of herbal agents.
 - Designed a topical polyherbal emulgel with improved skin absorption.
@@ -15,7 +15,7 @@ This research project focuses on the formulation and evaluation of a topical pol
 
 ---
 
-## 🛠 Tools & Skills Applied
+### 🛠 Tools & Skills Applied
 
 - Scientific Research & Literature Review  
 - Formulation Analysis  
@@ -23,15 +23,15 @@ This research project focuses on the formulation and evaluation of a topical pol
 - Scientific Presentation & Communication  
 
 ---
-## 📘 Cover Page
+### 📘 Cover Page
 ![Cover Page](https://github.com/Balaji1546/FORMULATION-EVALUATION-OF-POLYHERBAL-EMULGEL-FOR-THE-TREATMENT-OF-RHEUMATOID-ARTHRITIS/blob/06ef16581e07a27e9f68377ed26acc83861e313e/Screenshot%202025-08-06%20165830.png)
 
 
-## 📄 Abstract
+### 📄 Abstract
 ![Abstract](https://github.com/Balaji1546/FORMULATION-EVALUATION-OF-POLYHERBAL-EMULGEL-FOR-THE-TREATMENT-OF-RHEUMATOID-ARTHRITIS/blob/3a72ac6edc7f39188435abfb43bbf8348d0d8d49/Screenshot%202025-08-06%20165917.png)
 
 ---
-## 🧠 Keywords
+### 🧠 Keywords
 
 `Emulgel` `Rheumatoid Arthritis` `Ginger Extract` `Eucalyptus Oil` `Anti-inflammatory` `Polyherbal Formulation` `Topical Drug Delivery`
 
