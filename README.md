@@ -5,7 +5,7 @@ This research project focuses on the formulation and evaluation of a topical pol
 ---
 
 ## 📘 Cover Page
-![Cover Page](./cover.png)
+![Cover Page](./Screenshot 2025-08-06 165830.png)
 
 ## 📄 Abstract
 ![Abstract](./abstract.png)
